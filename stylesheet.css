@@ -157,6 +157,8 @@ ul {
   border-radius: 2px;
   background-color: #298a8a;
   width: 80%;
+  z-index: 1;
+  position: absolute;
 }
 
 li {
