@@ -1,0 +1,172 @@
+@media all and (max-width: 1000px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+
+  .wrapper-div {
+    /*border: 3px solid rgb(96, 28, 204);*/
+    display: flex;
+    justify-content: center;
+    margin: -35px 10% 0px 10%;
+    background-color: #DC7633;
+  }
+
+  .wrapper-div p {
+    display: flex;
+    font-size: 18px;
+    padding: 5px 7px 5px 7px;
+  }
+  .isi-gambar {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+   /*Wandi*/
+   .label {
+    font-size: 12px;
+    padding: 10px 10px;
+}
+.lowgo {
+    float: none;
+}
+.logo-footer {
+    width: 50%;
+    margin-left: 60px;
+}
+.logo2-footer {
+    width: 25%;
+    margin-left: 20px;
+}
+.container-footer {
+    height: 125px;
+}
+ul {
+    width: 100%;
+    margin-left: 45px;
+}
+
+.footer-left li {
+    float: left;
+    margin-top: 10px;
+    line-height: 12px;
+    font-size: 12px;
+}
+.fa {
+    float: left;
+}
+/*Selesai*/
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  /* Tambahkan CSS untuk header-right */
+  .header-right {
+    display: none;
+  }
+  
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-icon {
+    display: block;
+  }
+  
+  /*Yoga*/
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .wrapper-div {
+    /*border: 3px solid rgb(96, 28, 204);*/
+    display: flex;
+    justify-content: center;
+    margin: -15px 10% 0px 10%;
+    background-color: #DC7633;
+  }
+
+  .wrapper-div p {
+    display: flex;
+    font-size: 7px;
+    padding: 7px 5px 7px 5px;
+    margin: 7px 0% 0px 0%;
+  }
+  /*selesai*/
+
+/*yosua*/
+  .isi-gambar {
+    width: 100%;
+	position: center;
+  }
+  
+ .heading-extra{
+	 font-size: 35px;
+ }
+ .lesson-wrapper{
+	 height: 90px;
+ }
+ /*Selesai*/
+
+ /*Wandi*/
+ .lowgo {
+  float: none;
+}
+.logo-footer {
+width: 90%;
+margin-left: 60px;
+}
+.logo2-footer {
+width: 50%;
+margin-left: 70px;
+}
+.container-footer {
+margin-top:1300px;
+height: 250px;
+}
+
+ul {
+width: 100%;
+margin: 0px;
+}
+li {
+float: left;
+color: black;
+line-height: 12px;
+font-size: 12px;
+}
+.fa {
+float: left;
+padding-top: 0px;
+}
+/*Selesai*/
+
+}
